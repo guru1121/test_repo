@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 HEllo this is first file and some change.
-=======
 HEllo this is first.
-THis is feature branch
-
->>>>>>> feature1
+THis is feature branc
